@@ -13,6 +13,11 @@ It also has a state displaying joy, energy, and fullness.
 
 It can detect movement, air temperature, and humidity.
 
+## How to use
+1. You can select different actions from the menu (press button 1), or you can open the pet stats (press button 2).
+2. Watch you pet, it can perform many actions
+3. Move Starbie around and watch your pet
+
 ## Bill of Materials (BOM)
 | Item | amount | cost (ea.) | Link |
 | --- | --- | --- | --- |
