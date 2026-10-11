@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | Resistor for DHT11 | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | The PCB | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$25.95** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$35.95** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$25.95** | — |
 
-**$5.95 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$4.05 left of the tier's funding.
