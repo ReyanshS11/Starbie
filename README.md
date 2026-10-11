@@ -1,10 +1,17 @@
 # Starbie
-This is a simple desktop pet.
+A desktop pet displayed on an OLED screen.
 
 ![PCB Design](/Screenshots/FinalPCB.png)
 
 ## What it does
-This a desktop pet. It is displayed on an OLED screen. It can perform actions such as running, napping, and eating.
+It can perform actions:
+* Nap
+* Play
+* Eat
+
+It also has a state displaying joy, energy, and fullness.
+
+It can detect movement, air temperature, and humidity.
 
 ## Bill of Materials (BOM)
 | Item | amount | cost (ea.) | Link |
